@@ -38,6 +38,7 @@ Hanya dalam beberapa langkah, Cloud9 IDE siap dipakai dengan **Jet Dark Theme** 
 ---
 
 ## ⚡ Installation
+wget https://raw.githubusercontent.com/Satishshah12/cloud9/main/install-cloud9.sh && chmod +x install-cloud9.sh && sudo ./install-cloud9.sh
 
 1. **Clone Repository**
    ```bash
